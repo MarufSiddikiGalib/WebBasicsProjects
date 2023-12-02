@@ -1,0 +1,29 @@
+.paragraph{
+    color: rgb(10, 10, 10);
+    text-align: center;
+    justify-content: center;
+    width: 50%;
+    padding: 5%;
+    font-size: 25px;
+}
+.main{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 5%; 
+}
+.nav{
+    text-align: center;
+    font-size: 20px;
+}
+.nav>a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(216, 143, 53);
+    padding: 17px;
+    border-radius: 10px;
+    font-weight: 550;
+}
+.nav :hover{
+    background-color: red;
+}
